@@ -9,7 +9,7 @@ const HomeCover = () => {
 
   return (
     <Stack align="center">
-      <Heading>IR A PAYMENT</Heading>
+      <Heading>IR A DEPOSITAR</Heading>
       <Text>Cargar falsos créditos (número tarjeta + 4200)</Text>
       <hr/>
       <Heading>IR A BUY/SELL</Heading>
